@@ -1,0 +1,41 @@
+{
+	"GRB160821B":{
+		"name":"GRB160821B",
+		"sources":[
+			{
+				"name":"Troja et al. (2019)",
+        "bibcode":"2019arXiv190501290T"
+        "source":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"GRB160821B"
+			}
+		],
+		"ra":[
+			{
+				"value":"18:39:54.6"
+			}
+		],
+		"dec":[
+			{
+				"value":"62:23:30.5"
+			}
+		],
+    "redshift":[
+			{
+				"value":"0.1613",
+				"e_value":"0.0004",
+				"kind":"host",
+				"source":"1"
+			}
+		],
+		"claimedtype":[
+			{
+				"value":"Kilonova?",
+				"source":"1"
+			}
+		],
+	}
+}
